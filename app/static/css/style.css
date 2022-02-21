@@ -1,3 +1,19 @@
 body {
-    font-family: Helvetica, "Helvetica Neue", sans-serif;
+    font-family: Times,"Helvetica", "Helvetica Neue", sans-serif;
+    font-size: 16px;
+}
+
+
+.navy{
+    color: navy;
+}
+
+.red{
+    color: red;
+}
+.makebigger {
+    font-size: 120%;
+}
+.center{
+    text-align: center;
 }
